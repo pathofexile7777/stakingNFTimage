@@ -8,15 +8,15 @@
             "trait_type": "Amount", 
             "value": "2000"
         }
-        ], 
-        "properties": 
-        {
-            "files": 
-            [
-                {
-                    "type": "image/png", 
-                    "uri": "https://raw.githubusercontent.com/pathofexile7777/stakingNFTimage/1aa001761481a1ece7f37cdc2bac687e834be4fd/sampleImage.png"
-                }
-            ]
-        }
+    ], 
+    "properties": 
+    {
+        "files": 
+        [
+            {
+                "type": "image/png", 
+                "uri": "https://raw.githubusercontent.com/pathofexile7777/stakingNFTimage/1aa001761481a1ece7f37cdc2bac687e834be4fd/sampleImage.png"
+            }
+        ]
     }
+}
