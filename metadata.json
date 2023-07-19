@@ -2,7 +2,7 @@
     "name": "STAKING 2000", 
     "symbol": "ROA", 
     "description": "STAKING NFT", 
-    "image": "https://github.com/pathofexile7777/stakingNFTimage/blob/1aa001761481a1ece7f37cdc2bac687e834be4fd/sampleImage.png", 
+    "image": "https://raw.githubusercontent.com/pathofexile7777/stakingNFTimage/1aa001761481a1ece7f37cdc2bac687e834be4fd/sampleImage.png", 
     "attributes": [
         {
             "trait_type": "Amount", 
@@ -15,7 +15,7 @@
             [
                 {
                     "type": "image/png", 
-                    "uri": "https://github.com/pathofexile7777/stakingNFTimage/blob/1aa001761481a1ece7f37cdc2bac687e834be4fd/sampleImage.png"
+                    "uri": "https://raw.githubusercontent.com/pathofexile7777/stakingNFTimage/1aa001761481a1ece7f37cdc2bac687e834be4fd/sampleImage.png"
                 }
             ]
         }
