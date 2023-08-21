@@ -1,0 +1,19 @@
+{
+    "name": "bannedRoa", 
+    "symbol": "BANNED", 
+    "description": "BANNED ROA", 
+    "image": "https://raw.githubusercontent.com/pathofexile7777/stakingNFTimage/8900069ab44c8664f30f69741056db41c118c715/prohibited.png", 
+    "attributes": [
+        {}
+    ], 
+    "properties": 
+    {
+        "files": 
+        [
+            {
+                "type": "image/png", 
+                "uri": "https://raw.githubusercontent.com/pathofexile7777/stakingNFTimage/8900069ab44c8664f30f69741056db41c118c715/prohibited.png"
+            }
+        ]
+    }
+}
